@@ -1,0 +1,10 @@
+# Generated files from Flex & Bison
+lex.yy.c
+*.tab.c
+*.tab.h
+*.output
+
+# Binaries & Object Files
+*.exe
+*.o
+*.obj
